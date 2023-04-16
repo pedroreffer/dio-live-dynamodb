@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Dead fish"},
+                  "SongTitle": {"S": "Zero e um"},
+                  "AlbumTitle": {"S": "Zero e um"},
+                  "SongYear": {"S": "2004"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Garage fuzz"},
+                  "SongTitle": {"S": "Warm and cold"},
+                  "AlbumTitle": {"S": "Warm and cold"},
+                  "SongYear": {"S": "2018"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Lacuna coil"},
+                  "SongTitle": {"S": "Veneficium"},
+                  "AlbumTitle": {"S": "Black anima"},
+                  "SongYear": {"S": "2019"}
+                }
+            }
+        }
+      ]
+}
